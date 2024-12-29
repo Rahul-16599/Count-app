@@ -17,6 +17,7 @@ function App() {
         <Todoitems text= "Work"/>
         <Todoitems text= "Sleep"/>
         <Todoitems text= "Repeat"/>
+        <Todoitems text= "Repeat"/>
         < Button />
     </div>
     
